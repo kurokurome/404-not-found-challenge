@@ -1,0 +1,146 @@
+/*   font-family: "Space Mono", monospace;
+  font-family: 'Inconsolata', monospace; 
+  font-family: "Montserrat", sans-serif;*/
+html {
+  font-size: 24px;
+}
+
+body {
+  background-color: white;
+}
+
+.not-found {
+  font-family: "Inconsolata", monospace;
+  margin: 1rem;
+  font-size: 24px;
+  letter-spacing: -0.08em;
+}
+
+img {
+  width: 22.5rem;
+}
+
+.container {
+  margin-top: 256px;
+  margin-left: 77px;
+  margin-right: 119px;
+  font-family: "Space Mono", monospace;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.header {
+  font-size: 64px;
+}
+
+picture {
+  width: 24.4em;
+}
+
+.description {
+  margin-left: 5em;
+  width: 586px;
+}
+
+.description p {
+  color: #4f4f4f;
+  font-size: 24px;
+  width: 16em;
+}
+
+.button {
+  background-color: #333333;
+  text-transform: uppercase;
+  text-align: center;
+  display: block;
+  width: 216px;
+  height: 68px;
+}
+
+.button:hover {
+  background-color: #4e4e4e;
+}
+
+.button p {
+  font-size: 14px;
+  position: absolute;
+  color: white;
+  letter-spacing: -0.035em;
+  margin-top: 24px;
+}
+
+.attribute {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 308px;
+  color: #bdbdbd;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+
+.attribute a {
+  text-decoration: none;
+  color: #bdbdbd;
+}
+.attribute a:hover {
+  text-decoration: underline;
+  color: #333333;
+}
+
+@media only screen and (max-width: 500px) {
+  body {
+    width: 375px;
+    font-size: 24px;
+  }
+
+  .header {
+    font-size: 48px;
+    max-width: 375px;
+    margin: 0;
+  }
+
+  .container {
+    width: 375px;
+    margin-top: 109px;
+    margin-left: 0;
+    display: flex;
+    flex-flow: column wrap;
+  }
+
+  .description {
+    margin-top: 3em;
+    margin-left: 1em;
+    margin-right: 0;
+    width: 100%;
+  }
+
+  .description p {
+    font-size: 18px;
+  }
+
+  .button {
+    width: 216px;
+    margin-top: 66px;
+  }
+
+  .button p {
+    width: 216px;
+  }
+
+  picture {
+    max-width: 12em;
+    margin-left: 44px;
+    margin-right: 0;
+  }
+
+  img {
+    width: 12em;
+  }
+
+  .attribute {
+    margin-top: 114px;
+    margin-right: 0;
+    margin-bottom: 24px;
+  }
+}
