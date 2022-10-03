@@ -31,15 +31,13 @@
 <!-- OVERVIEW -->
 
 ## Overview
-- Desktop Preview
+- Desktop Preview and Mobile Preview
 ![Desktop](https://github.com/kurokurome/404-not-found-challenge/blob/9dfe9c9f691e8651369a71eba90b06e896f8f4f7/Screenshot-Desktop.png)
-<br/>
-- Mobile Preview
 ![Mobile](https://github.com/kurokurome/404-not-found-challenge/blob/9dfe9c9f691e8651369a71eba90b06e896f8f4f7/Screenshot-Mobile.png)
 
 - You can see my demo [here](https://kurokurome.github.io/404-not-found-challenge)
 - It was best experience to learn and troubleshooting some problems
-- My time making webpage improved and more faster
+- My progress making webpage improved and more faster than before
 
 ## Features
 
