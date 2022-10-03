@@ -1,6 +1,4 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 Not Found Webpage Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a id="Demo" href="https://kurokurome.github.io/404-not-found-challenge">
       Demo
     </a>
     <span> | </span>
@@ -34,15 +32,12 @@
 
 ## Overview
 
-![Desktop](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-![Mobile](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Desktop](https://github.com/kurokurome/404-not-found-challenge/blob/9dfe9c9f691e8651369a71eba90b06e896f8f4f7/Screenshot-Desktop.png)
+![Mobile](https://github.com/kurokurome/404-not-found-challenge/blob/9dfe9c9f691e8651369a71eba90b06e896f8f4f7/Screenshot-Mobile.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can see my demo [here](https://kurokurome.github.io/404-not-found-challenge)
+- It was best experience to learn and troubleshooting some problems
+- My time making webpage improved and more faster
 
 ## Features
 
