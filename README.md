@@ -33,6 +33,7 @@
 ## Overview
 - Desktop Preview
 ![Desktop](https://github.com/kurokurome/404-not-found-challenge/blob/9dfe9c9f691e8651369a71eba90b06e896f8f4f7/Screenshot-Desktop.png)
+<br/>
 - Mobile Preview
 ![Mobile](https://github.com/kurokurome/404-not-found-challenge/blob/9dfe9c9f691e8651369a71eba90b06e896f8f4f7/Screenshot-Mobile.png)
 
